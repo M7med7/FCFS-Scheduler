@@ -1,1 +1,1 @@
-"# FCFS-Scheduler" 
+"An implementation of the First-Come, First-Served (FCFS) scheduling algorithm. This scheduling approach processes tasks in the order they arrive, prioritizing tasks that arrive first without preemption." 
